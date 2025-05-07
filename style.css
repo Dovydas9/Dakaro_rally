@@ -55,7 +55,6 @@ footer{
 .sluoksnis{
     width: 100%;
     height: 200px;
-    outline: 2px dashed blue;
     background-color: rgba(50,40,100,0.5);
 }
 
